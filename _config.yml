@@ -1,0 +1,14 @@
+title: 'GSoC 2020 Tracker'
+
+header_pages:
+  - index.md
+  - about.md
+  - language.md
+  - notes.md
+style: dark
+
+footer: 'follow me on <a href="https://github.com/VedantParanjape">github</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console

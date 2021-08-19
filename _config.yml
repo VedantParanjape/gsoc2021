@@ -4,6 +4,8 @@ header_pages:
   - index.md
   - about.md
   - notes.md
+  - report.md
+  
 style: dark
 
 footer: 'follow me on <a href="https://github.com/VedantParanjape">github</a>'

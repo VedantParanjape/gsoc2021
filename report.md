@@ -51,7 +51,7 @@ Multistream is supported on devices with IPU3, rkisp1 and raspberrypi camera pip
     
 **If it runs correctly, you should see such two windows with camera output as follows:**
 
-![image](https://ve0x10.in/blog/assets/gsoc-log-1/multistream-pass.png)
+<img src="https://ve0x10.in/blog/assets/gsoc-log-1/multistream-pass.png" height="416" width="740">
 
 ## Examples
 
